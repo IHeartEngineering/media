@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="450"
+   height="360"
+   id="svg7029"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="danger_autonomous.svg">
+  <defs
+     id="defs7031">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7037" />
+    <inkscape:perspective
+       id="perspective2869"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8393102"
+     inkscape:cx="75.985424"
+     inkscape:cy="179.39416"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="in" />
+  <metadata
+     id="metadata7034">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.528571,-281.8336)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.06771636;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect7039"
+       width="447.93228"
+       height="357.93228"
+       x="31.562429"
+       y="282.86746"
+       rx="19.9081"
+       ry="26.513504" />
+    <g
+       id="g7570"
+       transform="translate(-0.001997,-2.2888184e-5)">
+      <rect
+         y="301.53723"
+         x="48.931385"
+         height="150.05626"
+         width="413.19836"
+         id="rect7551"
+         style="fill:#000000;stroke:none" />
+      <g
+         transform="translate(-33.221173,13.264854)"
+         id="g7565">
+        <path
+           sodipodi:type="star"
+           style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:7.19999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path7559"
+           sodipodi:sides="4"
+           sodipodi:cx="119.61006"
+           sodipodi:cy="510.31116"
+           sodipodi:r1="113.0362"
+           sodipodi:r2="79.928665"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0.1"
+           inkscape:randomized="0"
+           d="m 199.53873,590.23982 c -11.30362,11.30362 -148.553712,11.30362 -159.857333,0 -11.30362,-11.30362 -11.30362,-148.55371 0,-159.85733 11.30362,-11.30362 148.553713,-11.30362 159.857333,0 11.30362,11.30362 11.30362,148.55371 0,159.85733 z"
+           transform="matrix(2.0840937,0,0,0.58969093,39.473164,62.374646)" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
+           x="117.43533"
+           y="389.07004"
+           id="text7561"><tspan
+             sodipodi:role="line"
+             id="tspan7563"
+             x="117.43533"
+             y="389.07004"
+             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'">DANGER</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
+       x="256.46851"
+       y="522.28363"
+       id="text7577"><tspan
+         sodipodi:role="line"
+         id="tspan7579"
+         x="256.46851"
+         y="522.28363"
+         style="font-size:50px;text-align:center;text-anchor:middle;font-family:Arial Black;-inkscape-font-specification:Arial Black">AUTONOMOUS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
+       x="255.69263"
+       y="577.59198"
+       id="text7581"><tspan
+         sodipodi:role="line"
+         id="tspan7583"
+         x="255.69263"
+         y="577.59198"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'">SYSTEM MAY OPERATE</tspan><tspan
+         sodipodi:role="line"
+         x="255.69263"
+         y="612.59198"
+         id="tspan7585"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'">WITHOUT WARNING</tspan></text>
+  </g>
+</svg>
